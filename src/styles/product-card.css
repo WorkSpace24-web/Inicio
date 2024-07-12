@@ -1,0 +1,31 @@
+.product__item{
+    cursor: pointer;
+}
+
+.product__info h3 a{
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: #000000c9;
+    margin-top: 15px;
+}
+
+
+.product__info span{
+    font-size: 0.9rem;
+}
+
+.product__cart-bottom .price{
+    font-size: 1.5rem;
+    font-weight: 500;
+    color: #298922d4;
+}
+
+.product__cart-bottom .icon i {
+    font-size: 2.2rem;
+    padding: 5px;
+    cursor: pointer;
+}
+
+.product__info a:hover {
+    color: #0056b3; 
+}
